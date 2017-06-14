@@ -1,6 +1,6 @@
-# Datica HIPAA Compliance Policies
+# Hewson HIPAA Compliance Policies
 
-HIPAA compliance is complicated, but it doesn't have to be. Datica helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
+HIPAA compliance is complicated, but it doesn't have to be. Hewson helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
 
 In an effort to make compliance as easy as possible for companies working with protected health information (PHI), we decided to open source our company policies.
 
@@ -10,7 +10,7 @@ Do you handle PHI and not yet have your own company policies in place? Then you'
 
 ## Why did we open source these policies?
 
-HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Datica builds its platform with these guidelines in mind.
+HIPAA compliance really has two halves. The first half includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Hewson builds its platform with these guidelines in mind.
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), and managing company policies like training, among other things. Crafting company policies that align with HIPAA administrative guidelines are straightforward, but an immense burden.
 
